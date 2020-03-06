@@ -12,3 +12,9 @@ Février;;2018;;Loyer;;21
 Avril;;2018;;Loyer;;12
 Février;;2018;;Loyer;;2365
 Février;;2018;;Transport et divertissement;;2585
+Février;;2018;;Loyer;;3 000 000
+Février;;2018;;Loyer;;3 000 000
+Février;;2018;;Loyer;;655
+Mars;;2018;;Loyer;;25.00
+Février;;2018;;Transport et divertissement;;22.00
+Mai;;2020;;Transport et divertissement;;22.00

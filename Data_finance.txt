@@ -68,3 +68,6 @@ Avril;;2018;;Salaire_mensuel;;123
 Mars;;2018;;Salaire_mensuel;;27845
 Mars;;2018;;Immobilier;;3265
 Mars;;2018;;Immobilier;;235754
+Février;;2018;;Immobilier;;3 200.00
+Février;;2018;;Immobilier;;2222.000
+Juillet;;2020;;Immobilier;;200.00
