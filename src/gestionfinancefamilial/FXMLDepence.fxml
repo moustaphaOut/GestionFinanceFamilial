@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="502.0" prefWidth="665.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gestionfinancefamilial.FXMLDepenceController">
+    <stylesheets>
+        <URL value="@fxmldepence.css" />
+    </stylesheets>
+   <children>
+      <AnchorPane prefHeight="558.0" prefWidth="707.0">
+         <children>
+            <Label layoutX="15.0" layoutY="171.0" text="Type des depenses">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <Label layoutX="403.0" layoutY="172.0" text="Montant">
+               <font>
+                  <Font size="17.0" />
+               </font>
+            </Label>
+            <TextField fx:id="champ_montant" layoutX="498.0" layoutY="172.0" />
+            <ComboBox fx:id="combobox1" layoutX="176.0" layoutY="172.0" prefWidth="150.0" />
+            <Label layoutX="264.0" layoutY="14.0" text="Depenses" textFill="#1316e1">
+               <font>
+                  <Font size="40.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="58.0" fitWidth="62.0" layoutX="194.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@dollar-collection-icon.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="Enregistrer3" layoutX="555.0" layoutY="507.0" mnemonicParsing="false" onAction="#Enregistrer3" text="Enregistrer" />
+            <Label fx:id="label12" alignment="TOP_LEFT" layoutX="50.0" layoutY="217.0" prefHeight="219.0" prefWidth="109.0">
+               <font>
+                  <Font size="16.0" />
+               </font></Label>
+            <Button fx:id="retour2" layoutX="46.0" layoutY="507.0" mnemonicParsing="false" onAction="#retour2" text="Rétour" />
+            <ComboBox fx:id="mois2" layoutX="176.0" layoutY="101.0" prefWidth="150.0" />
+            <Spinner fx:id="annee2" layoutX="498.0" layoutY="101.0" />
+            <Label layoutX="15.0" layoutY="100.0" text="Mois">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="403.0" layoutY="100.0" text="Année">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <TableView fx:id="tableview2" layoutX="172.0" layoutY="279.0" prefHeight="200.0" prefWidth="356.0">
+              <columns>
+                <TableColumn fx:id="type_de_depense" prefWidth="181.0" text="Type des depenses" />
+                <TableColumn fx:id="type_de_depense_montat" prefWidth="174.0" text="Montant" />
+              </columns>
+            </TableView>
+            <Button fx:id="actu" layoutX="546.0" layoutY="238.0" mnemonicParsing="false" onAction="#actu6" text="+" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

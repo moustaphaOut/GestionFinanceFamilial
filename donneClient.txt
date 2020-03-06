@@ -1,0 +1,13 @@
+﻿
+
+bugeme;;fifito;;2018-05-10;;Celibataire;;Homme;;2
+
+lingwe;;rodriguez;;2018-06-14;;Celibataire;;Homme;;2
+bugeme;;benny;;2018-06-06;;Celibataire;;Homme;;0
+bugeme;;benny;;2018-06-14;;Celibataire;;Homme;;2
+dona;;benny;;2018-06-06;;Celibataire;;Homme;;0
+dona;;benny;;2018-06-08;;Celibataire;;Homme;;2
+bugeme;;benny;;2018-06-14;;Celibataire;;Homme;;0
+dona;;benny;;2018-05-31;;Celibataire;;Homme;;0
+djaoih;;dohiug;;2020-03-04;;Celibataire;;Homme;;2
+adad;;dada;;2020-03-04;;Marié;;Homme;;2

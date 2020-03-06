@@ -1,0 +1,14 @@
+﻿
+Javier;;2018;;Nourriture;;139
+Javier;;2018;;Transport et divertissement;;265
+Avril;;2019;;Habillement;;1235
+Javier;;2018;;Loyer;;200
+Javier;;2018;;Loyer;;600
+Mars;;2018;;Loyer;;6523
+Avril;;2018;;Loyer;;231
+Avril;;2018;;Loyer;;231
+Avril;;2018;;Loyer;;100
+Février;;2018;;Loyer;;21
+Avril;;2018;;Loyer;;12
+Février;;2018;;Loyer;;2365
+Février;;2018;;Transport et divertissement;;2585
